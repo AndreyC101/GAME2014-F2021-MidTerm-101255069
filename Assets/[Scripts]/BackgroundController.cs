@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Andrey Chizhov - 101255069
+ * Script was modified to move the background images horizontally from right to left
+ * Background transform was modified in editor to sit horizontally
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

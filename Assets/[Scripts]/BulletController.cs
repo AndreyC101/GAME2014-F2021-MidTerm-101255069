@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Andrey Chizhov - 101255069
+ * Script was modified to move the bullet character horizontally from left to right
+ * Bullet transform was modified in editor prefab to face to the right
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
